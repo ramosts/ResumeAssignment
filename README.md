@@ -1,5 +1,3 @@
-# ResumeAssignment
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -24,16 +22,14 @@
 
       <!-- ********************  PROJECTS / PORTFOLIO  ********************* -->
       <section class="featured">
-        <h2>Featured Projects</h2>
-        <p>View selected projects below. More information can be found at <a href="http://christinatruong.com">christinatruong.com</a>.</p>
+        <h2>Teresa Ramos RESUME 2023</h2>
+        <p>Check out more of what I know <a href="https://www.linkedin.com/in/teresa-ramos-609080250/">TeresaRamos.com</a>.</p>
 
         <!-- Copy the whole <section> block to add more projects. -->
         <section class="Resume">
-          <h3>Resume:Teresa Ramos</h3>
           <IMG SRC="images/thumbnail.jpg" alt="books and computer">
           <p>Hello! This is my online resume! I am so happy you've decided to view my page!</p>
           <p>The provided information is to be shared with fellow peers and potential clients.</p>
-          <a href="#" target="_blank">View project / case study</a>
         </section>
         <!-- End of Project block. -->
       </section>
@@ -49,7 +45,7 @@
         <!-- Copy this whole <section> block to add more jobs. -->
         <section>
           <h3>Receptionist</h3>
-          <p>ABS Kids</p>
+          <p class="abskids">ABS Kids</p>
           <p>November 2022-Current</p>
           <p>As a Receptionist you are the face of the company! Parents and patients see you as someone they can trust and work 
             certain options with you. 
@@ -64,7 +60,7 @@
           </ul>
           <section>
             <h3>Eary Child-Development Teacher</h3>
-            <p>Childcare Network</p>
+            <p class="daycare">Childcare Network</p>
             <p>January 2022-September 2022</p>
             <p>In this role I worked with kids from the age of 3-10. I had material I would implament every week. 
             </p>
@@ -79,7 +75,7 @@
 
           <section>
           <h3>Manager</h3>
-          <p>Zaxbys</p>
+          <p class="zax">Zaxbys</p>
           <p>January 2020-January 2022</p>
           <p>As a first time job! I was able to build character and learn a lot of responsibility
           </p>
@@ -94,6 +90,7 @@
         </section>
         <!-- End of Job block. -->
       </section>
+      </section>
 
       <!-- ******************  EDUCATION & CERTIFICATIONS ****************** -->
       <section class="Education">
@@ -102,19 +99,20 @@
         <!-- Copy this whole <section> block to add more schools. -->
         <section>
           <h3>Garner Magnet Highschool - Garner NC</h3>
-          <p>August 2017</p>
+          <p class="enroll">August 2017-June 2020</p>
           <p>Played Lacross - 2 years</p>
           <p>Worked on a community garden</p>
         </section>
 
-        section>
+        <section>
           <h3>Wake Tech Community College- Raleigh NC</h3>
-          <p>Spring 2022-Currnetly enrolled</p>
+          <p class="enroll">Spring 2022-Currnetly enrolled</p>
           <p>Nomiated to join Honors</p>
           <p>Learned Photoshop skill</p>
           <p>Developed a further understanding in Photoshop</p>
         </section>
         <!-- End of School block. -->
+      </section>
       </section>
 
       <!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** -->
